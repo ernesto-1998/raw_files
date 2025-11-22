@@ -1,0 +1,33 @@
+MIME-Version: 1.0
+Date: Fri, 21 Nov 2025 21:41:37 -0600
+Message-ID: <CAKaj7MJNUs3bC2xhJk5aVZbtuUFf7wc7QLjDutjsm87REXDwFg@mail.gmail.com>
+Subject: 
+From: ernesto alonso <ernestoalonso1998@gmail.com>
+To: neonbrycen@yahoo.com
+Content-Type: multipart/mixed; boundary="000000000000ed05ed064426b494"
+
+--000000000000ed05ed064426b494
+Content-Type: multipart/alternative; boundary="000000000000ed05ec064426b492"
+
+--000000000000ed05ec064426b492
+Content-Type: text/plain; charset="UTF-8"
+
+This is a test for case 2
+
+--000000000000ed05ec064426b492
+Content-Type: text/html; charset="UTF-8"
+
+<div dir="ltr">This is a test for case 2<div><br></div></div>
+
+--000000000000ed05ec064426b492--
+--000000000000ed05ed064426b494
+Content-Type: application/json; name="designli_real_challenge_test.json"
+Content-Disposition: attachment; 
+	filename="designli_real_challenge_test.json"
+Content-Transfer-Encoding: base64
+X-Attachment-Id: f_mi9qsh8b0
+Content-ID: <f_mi9qsh8b0>
+
+ew0KICAidGVzdCI6ICJjYXNvLTEtYWRqdW50byIsDQogICJzdGF0dXMiOiAic3VjY2VzcyIsDQog
+ICJ2YWx1ZSI6IDIwMA0KfQ==
+--000000000000ed05ed064426b494--
